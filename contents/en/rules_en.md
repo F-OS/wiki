@@ -4,7 +4,7 @@
 
 |1.  Don't be an asshole.|
 | :------------ |
-|This is just a game, and we here for enjoyment. Long-term conflicts, intentional harm to the community, and toxic behavior are not allowed and will be punished. This rule does not apply to minor conflicts.|
+|This is just a game, and we are here for enjoyment. Long-term conflicts, intentional harm to the community, and toxic behavior are not allowed and will be punished. This rule does not apply to minor conflicts.|
 
 |2.  Please, do your job.|
 | :------------ |
@@ -16,7 +16,7 @@
 
 |4.  Intentional murder/isolation/infliction of grievous bodily harm without any reason.|
 | :------------ |
-|You should have a strong case for killing. It can be self-defense, a conflict roleplayed over a long period of time, the fulfillment of a order (The one who gave an order to you will be responsible) or the enforcement of a sentence.|
+|You should have a strong cause for killing. It can be self-defense, a conflict roleplayed over a long period of time, the fulfillment of an order (The one who gave an order to you will be responsible) or the enforcement of a sentence.|
 |The violation always will be considered in the context of earlier events. Usually, the one who generates the situation is the one who takes responsibility.|
 |Full isolation of a player is equivalent to killing them.|
 |Infliction of grievous bodily harm, which causes long healing in medbay (more than 30 minutes) is punished half as severely as murder.|
@@ -24,7 +24,7 @@
 |5. Do not use IC knowledge, which is unknown to your character.|
 | :------------ |
 |Do not use knowledge gained from OOC sources in-game.|
-|Do not use other roles' difficult devices. Basic operations, like wall dismantling, are known by all jobs, but surgery and the engine should be limited to specialists. With the exception of related jobs, like robotics, or Jacks-of-all-trades: scientists and the RD.|
+|Do not use other roles difficult devices. Basic operations, like wall dismantling, are known by all jobs, but surgery and the engine should be limited to specialists. With the exception of related jobs, like robotics, or Jacks-of-all-trades: scientists and the RD.|
 |The crew is aware of the existence of all special roles and have approximate information about their methods, but doesn't know anything about their skills and devices.|
 
 |6. Breaking the immersion.|
@@ -32,7 +32,7 @@
 |Your manner of speaking must fit to how you are roleplaying, but not to how you normally behave in internet chatrooms and the like. Ideally, your speech should try to fit within normal grammar rules and literary standards as much as possible. Without any emojis, internet-slang or text-cuts: your characters communicate via voice.|
 |Do not act in a way that disrupts the setting and lore.
 |When you use flavor text, do not use it to write information about your character, their story or anything of that sort. Only your appearance (and some OOC notes if it's needed).
-|Do not take names of famous figures (Adolf Hitler) or popular characters (Darth Wader). You can roleplay as less famous heroes, but you should discuss it with the administration first.|
+|Do not take names of famous figures (Adolf Hitler) or popular characters (Darth Wader). You can roleplay as less famous figures, but you should discuss it with the administration first.|
 
 |7. Communicate correctly.|
 | :------------ |
@@ -49,4 +49,4 @@ Do not discuss the events of the current round in any OOC channels, this include
 
 |10. ERP.|
 | :------------ |
-|Erotic roleplay is restricted due to autistic influence to the game progress. Hugs'n'kisses are allowed, but nothing more than that. You heard the man.
+|Erotic roleplay is restricted due to it's influence to the game's progress. Hugs'n'kisses are allowed, but nothing more than that. You heard the man.
